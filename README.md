@@ -5,11 +5,11 @@ Enthusiast of the best web development technologies and javascript fullstack dev
 ## About me 🤔
 
 - 🌱 I’m currently learning ...
-- ⚡ Fun fact: ... when I
+- ⚡ Fun fact: ... Pascal was my first programming language...
 
-:earth_americas: Santos - Brazil
+:earth_americas: Santos - SP - Brazil
 
-:birthday: 18yo
+:birthday: 18 years old
 
 
 ## Tools I use
