@@ -51,6 +51,15 @@ Enthusiast of the best web development technologies and javascript fullstack dev
   <a target="_blank" href="mailto:gabriel_sobral@live.com?subject=[GitHub]">
     <img alt="Outlook" src="https://img.shields.io/badge/Gabriel_Sobral@live.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
+  
+  <a target="_blank" href="mailto:gabriel.sobral1367@gmail.com?subject=[GitHub]">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gabriel.Sobral1367@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+   <a target="_blank" href="https://www.linkedin.com/in/gabriel-sobral-069b78216/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Gabriel Sobral-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
 </p>
 
 <!--
