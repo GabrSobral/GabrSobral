@@ -1,11 +1,12 @@
 ## Hi there, I'm Gabriel 👋
-
-Enthusiast of the best web development technologies and javascript fullstack development
 ![](https://komarev.com/ghpvc/?username=GabrSobral&label=PROFILE+VIEWS)
+
+Enthusiast of the best web development technologies and javascript fullstack developer
+
 
 ## About me 🤔
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently studying ... ReactJS, NodeJs and Typescript
 - ⚡ Fun fact: ... Pascal was my first programming language...
 
 :earth_americas: Santos - SP - Brazil
