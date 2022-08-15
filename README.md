@@ -6,12 +6,12 @@ Enthusiast of the best web development technologies and javascript fullstack dev
 
 ## About me 🤔
 
-- 🌱 I’m currently studying ... ASP.NET 5 and 6
+- 🌱 I’m currently studying ... Rust and microsservices
 - ⚡ Fun fact: ... Pascal was my first programming language...
 
 :earth_americas: Santos - SP - Brazil
 
-:birthday: 18 years old
+:birthday: 19 years old
 
 
 ## Tools I use
