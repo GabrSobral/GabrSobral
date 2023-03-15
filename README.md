@@ -6,7 +6,7 @@ Enthusiast of the best web development technologies and javascript fullstack dev
 
 ## About me 🤔
 
-- 🌱 I’m currently studying ... Cryptography and Signal Protocol
+- 🌱 I’m currently studying ... and end-to-end cryptography Signal Protocol
 - ⚡ Fun fact: ... Pascal was my first programming language...
 
 :earth_americas: Santos - SP - Brazil
