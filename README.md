@@ -1,7 +1,7 @@
 ## Hi there, I'm Gabriel 👋
 ![](https://komarev.com/ghpvc/?username=GabrSobral&label=PROFILE+VIEWS)
 
-Enthusiast of the best web development technologies and javascript fullstack developer
+Enthusiast of the best web development technologies, Javascript and .NET fullstack developer
 
 
 ## About me 🤔
