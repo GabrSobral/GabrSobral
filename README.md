@@ -6,7 +6,7 @@ Enthusiast of the best web development technologies, Javascript and .NET fullsta
 
 ## About me 🤔
 
-- 🌱 I’m currently studying ... and end-to-end cryptography Signal Protocol
+- 🌱 I’m currently studying ... the Go Programming Language...
 - ⚡ Fun fact: ... Pascal was my first programming language...
 
 :earth_americas: Santos - SP - Brazil
