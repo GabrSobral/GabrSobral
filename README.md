@@ -11,7 +11,7 @@ Enthusiast of the best web development technologies, Javascript and .NET fullsta
 
 :earth_americas: Santos - SP - Brazil
 
-:birthday: 21 years old
+:birthday: 22 years old
 
 ### 📫 How to reach me
 
